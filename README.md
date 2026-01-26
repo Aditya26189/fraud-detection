@@ -151,7 +151,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{graphge2025,
-  author = {Aditya Agarwal},
+  author = {Aditya Singh},
   title = {GraphGE: Uncertainty-Aware Fraud Detection with GraphSAGE},
   year = {2025},
   url = {https://github.com/Aditya26189/graphsage-fraud-uncertainty-elliptic}

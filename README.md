@@ -1,6 +1,4 @@
-Based on the repository content and detailed report, here's a comprehensive README for your GraphSAGE fraud detection project:
 
-***
 
 # GraphGE: Uncertainty-Aware Fraud Detection with GraphSAGE
 

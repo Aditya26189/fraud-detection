@@ -170,7 +170,7 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-Aditya Agarwal - [GitHub](https://github.com/Aditya26189)
+Aditya Singh - [GitHub](https://github.com/Aditya26189)
 
 ***
 
